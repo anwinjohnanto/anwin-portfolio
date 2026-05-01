@@ -36,7 +36,7 @@ export default function Hero() {
           }}
         >
           <span style={{ width: '30px', height: '1px', background: 'var(--cyan)', display: 'inline-block', flexShrink: 0 }} />
-          Mechanical Eng → Tech Lead · Building systems that ship
+          Software Eng → Tech Lead · Building systems that ship
         </div>
 
         {/* Name */}
