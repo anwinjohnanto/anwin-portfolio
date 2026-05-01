@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Dark background with clip-path corner — matches portfolio button signature -->
+  <polygon points="0,0 25,0 32,7 32,32 7,32 0,25" fill="#04060d"/>
+  <polygon points="0,0 25,0 32,7 32,32 7,32 0,25" fill="none" stroke="#06b6d4" stroke-width="1.5" stroke-linejoin="miter"/>
+  <!-- A in cyan -->
+  <text x="16" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="900" fill="#06b6d4">A</text>
+</svg>
